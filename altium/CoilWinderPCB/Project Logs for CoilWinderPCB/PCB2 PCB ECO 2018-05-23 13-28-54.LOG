@@ -1,0 +1,39 @@
+Change Net Name : Old Net Name=Net4_2 New Net Name=Net_1
+Change Net Name : Old Net Name=Net6_2 New Net Name=Net_1
+Change Net Name : Old Net Name=Net*1_11 New Net Name=Net_4
+Change Net Name : Old Net Name=Net*1_12 New Net Name=Net_3
+Change Net Name : Old Net Name=Net*1_13 New Net Name=Net_2
+Change Net Name : Old Net Name=Net*1_14 New Net Name=Net_1
+Change Net Name : Old Net Name=Net*2_11 New Net Name=Net_4
+Change Net Name : Old Net Name=Net*2_12 New Net Name=Net_3
+Change Net Name : Old Net Name=Net*2_13 New Net Name=Net_2
+Change Net Name : Old Net Name=Net*2_14 New Net Name=Net_1
+Change Net Name : Old Net Name=Net*3_1 New Net Name=Net_1
+Change Net Name : Old Net Name=Net*3_3 New Net Name=Net_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=Net_2
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  SOT23-3
+Added Member To Class: ClassName=Sheet2 Member=Component  RES
+Added Member To Class: ClassName=Sheet2 Member=Component  LM
+Added Member To Class: ClassName=Sheet2 Member=Component  DRV8825_Carrier
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component  DRV8825_Carrier
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component  ESP32S_Module
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component  SOT223
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Room: Name=Sheet2

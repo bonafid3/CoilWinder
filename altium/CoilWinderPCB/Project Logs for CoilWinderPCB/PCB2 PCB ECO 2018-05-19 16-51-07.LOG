@@ -1,0 +1,9 @@
+Added Component: Designator=4(1206)
+Added Component: Designator=5(1206)
+Added Pin To Net: NetName=3V3 Pin=4-1
+Added Pin To Net: NetName=GND Pin=5-2
+Added Pin To Net: NetName=Net4_2 Pin=4-2
+Added Pin To Net: NetName=Net4_2 Pin=5-1
+Added Net: Name=Net4_2
+Added Member To Class: ClassName=Sheet2 Member=Component 4 1206
+Added Member To Class: ClassName=Sheet2 Member=Component 5 1206

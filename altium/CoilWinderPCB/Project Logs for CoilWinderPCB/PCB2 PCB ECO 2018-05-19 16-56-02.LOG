@@ -1,0 +1,11 @@
+Added Component: Designator=6(1206)
+Added Component: Designator=7(1206)
+Added Pin To Net: NetName=GND Pin=7-2
+Added Pin To Net: NetName=LED Pin=6-1
+Added Pin To Net: NetName=LED Pin=M1-33
+Added Net: Name=LED
+Added Pin To Net: NetName=Net6_2 Pin=6-2
+Added Pin To Net: NetName=Net6_2 Pin=7-1
+Added Net: Name=Net6_2
+Added Member To Class: ClassName=Sheet2 Member=Component 6 1206
+Added Member To Class: ClassName=Sheet2 Member=Component 7 1206

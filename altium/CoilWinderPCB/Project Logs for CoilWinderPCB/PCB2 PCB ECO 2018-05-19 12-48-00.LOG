@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=2-1
+Removed Pin From Net: NetName=5V Pin=2-2
+Removed Pin From Net: NetName=12V Pin=2-3
+Removed Member From Class: ClassName=Sheet2 Member=2
+Added Component: Designator=C3(circular 200 mil)
+Added Component: Designator=C4(circular 200 mil)
+Added Component: Designator=C5(circular 200 mil)
+Added Component: Designator=LM1(TO 22Ö)
+Added Component: Designator=R1(LINEAR 100 MIL)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=12V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=12V Pin=LM1-1
+Added Pin To Net: NetName=GND Pin=LM1-3
+Added Pin To Net: NetName=GND Pin=LM1-5
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=LM1-2
+Added Pin To Net: NetName=NetC4_2 Pin=R1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=LM1-4
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet2 Member=Component C3 Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component C4 Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component C5 Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component LM1 LM
+Added Member To Class: ClassName=Sheet2 Member=Component R1 RES
+Added Room: Name=Sheet2

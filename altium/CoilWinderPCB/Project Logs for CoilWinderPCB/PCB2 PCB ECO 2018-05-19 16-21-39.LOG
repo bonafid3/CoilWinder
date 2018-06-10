@@ -1,0 +1,4 @@
+Added Component: Designator=P?(1X2MINITUSKE)
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=TTL5V Pin=P?-2
+Added Member To Class: ClassName=Sheet2 Member=Component P? Header2

@@ -1,0 +1,16 @@
+Added Component: Designator=*?(SOT23-3)
+Added Component: Designator=?(1206)
+Added Component: Designator=?(1206)
+Added Pin To Net: NetName=GND Pin=*?-2
+Added Pin To Net: NetName=LASER Pin=?-1
+Added Pin To Net: NetName=5V Pin=?-2
+Added Pin To Net: NetName=Net*?_1 Pin=*?-1
+Added Pin To Net: NetName=Net*?_1 Pin=?-2
+Added Net: Name=Net*?_1
+Added Pin To Net: NetName=TTL5V Pin=*?-3
+Added Pin To Net: NetName=TTL5V Pin=?-1
+Added Net: Name=TTL5V
+Added Member To Class: ClassName=Sheet2 Member=Component *? SOT23-3
+Added Member To Class: ClassName=Sheet2 Member=Component ? 1206
+Added Member To Class: ClassName=Sheet2 Member=Component ? 1206
+Added Room: Name=Sheet2

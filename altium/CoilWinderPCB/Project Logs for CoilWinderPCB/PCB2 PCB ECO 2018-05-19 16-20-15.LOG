@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=*?-3
+Added Component: Designator=?(1206)
+Added Pin To Net: NetName=5V Pin=?-2
+Added Pin To Net: NetName=TTL5V Pin=*?-3
+Added Pin To Net: NetName=TTL5V Pin=?-1
+Added Net: Name=TTL5V
+Added Member To Class: ClassName=Sheet2 Member=Component ? 1206

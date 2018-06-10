@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=3V3 Pin=-3
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component  1206
+Added Member To Class: ClassName=Sheet2 Member=Component  SOT23-3
+Added Member To Class: ClassName=Sheet2 Member=Component  RES
+Added Member To Class: ClassName=Sheet2 Member=Component  LM
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component  SOT223
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Capacitor 200 mil
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 2
+Added Member To Class: ClassName=Sheet2 Member=Component  ESP32S_Module
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component  DRV8825_Carrier
+Added Member To Class: ClassName=Sheet2 Member=Component  Header 4
+Added Member To Class: ClassName=Sheet2 Member=Component  DRV8825_Carrier
+Added Room: Name=Sheet2
